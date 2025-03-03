@@ -14,9 +14,8 @@ The Haifus.fun is a **DeFAI protocol**, run by DeFAI agents and its framework **
 ---
 
 ## 🌌 DeFAI contracts
-- **[haifusdotfun-contracts](https://github.com/haifu-labs/haifusdotfun-contracts):** contracts for launching DeFAI waifu fund.
+- **[haifudotfun-contracts](https://github.com/haifu-labs/haifudotfun-contracts):** contracts for launching DeFAI waifu fund.
 
 ---
 
 ## 🔧 Libraries
-- **[haifusdotfun-interfaces](https://github.com/haifu-labs/osmosis-frontend):** interface library for third parties to integrate haifus.fun terminal and its UI
